@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The high life 1</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="home">Home</string>
+    <string name="shop">Shop</string>
+    <string name="bag">Bag</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="email_error">Email Error</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password Error</string>
+    <string name="forgotten_password">Forgotten Password?</string>
+    <string name="dont_t_have_an_account">Dont\'t Have an Account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="check">Check</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="search_for_an_outfit_by_taking_a_photo_or_uploading_an_image">Search for an outfit by taking a photo or uploading an image</string>
+</resources>

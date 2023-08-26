@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="productNoteCover" type="id" />
+    <item name="productCheck_coverPage" type="id" />
+    <item name="productImage_singleProduct" type="id" />
+    <item name="productAddToFav_singleProduct" type="id" />
+    <item name="productRating_singleProduct" type="id" />
+    <item name="productBrandName_singleProduct" type="id" />
+    <item name="discountTv_singleProduct" type="id" />
+    <item name="productName_singleProduct" type="id" />
+    <item name="productPrice_singleProduct" type="id" />
+    <item name="discount_singleProduct" type="id" />
+</resources>

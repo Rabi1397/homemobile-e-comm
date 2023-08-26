@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210905779537",
+    "project_id": "the-high-life-1",
+    "storage_bucket": "the-high-life-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210905779537:android:2f9d475a0a499d1336d770",
+        "android_client_info": {
+          "package_name": "com.example.thehighlife1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210905779537-r0a461cr7qair82seiq56prn95vc8aeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXw-RXsQ2TzggLmxxkCS_AVwi5KUKXMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210905779537-r0a461cr7qair82seiq56prn95vc8aeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
