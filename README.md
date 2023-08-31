@@ -1,1 +1,0 @@
-# homemobile-e-comm
